@@ -34,7 +34,7 @@ The world doesn't need more data. It needs smarter integration and the ability t
 
 FastAPI · PostgreSQL + pgvector · Gemini 2.5 Flash · Vertex AI · Flutter · Firebase · Google Cloud Run
 
-See [JustTrip/architecture.md](JustTrip/architecture.md) for the full technical overview.
+See [projects/JustTrip/architecture.md](projects/JustTrip/architecture.md) for the full technical overview.
 
 ## Team
 
